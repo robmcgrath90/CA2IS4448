@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CA2IS4448</string>
+    <string name="todo">TODO</string>
+    <string name="info">Info</string>
+
+    <string-array name="teams_array">
+        <item>Fantastic Four</item>
+        <item>Avengers</item>
+        <item>X-Men</item>
+        <item>Justice League</item>
+    </string-array>
+</resources>
